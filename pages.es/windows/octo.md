@@ -1,7 +1,7 @@
 # octo
 
 > Herramientas de línea de comandos para Octopus Deploy.
-> Más información: <https://octopus.com/docs/octopus-rest-api/octopus-cli>.
+> Más información: <https://octopus.com/docs/cli>.
 
 - Crea un paquete:
 

@@ -1,7 +1,7 @@
 # octo
 
 > Octopus Deploy 명령줄 도구.
-> 더 많은 정보: <https://octopus.com/docs/octopus-rest-api/octopus-cli>.
+> 더 많은 정보: <https://octopus.com/docs/cli>.
 
 - 패키지 생성:
 
